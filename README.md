@@ -1,6 +1,7 @@
-- 👋 Hi, My name is Jaspreet Singh. I also go by Jazzy. 
-- 👀 I’m interested in learning new skills. 
+- 👋 Hi, My name is Jaspreet Singh.
+- 👀 I love learning new technologies.
 - 🌱 I’m currently learning Java. 
+- Ask me about Java, JavaScript, html, css
 - 💞️ I’m looking to collaborate on anything that gives me an opportunity to grow.
 
 <!---
